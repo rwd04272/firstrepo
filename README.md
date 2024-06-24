@@ -34,23 +34,10 @@
 ![image](https://github.com/rwd04272/firstrepo/assets/166587746/668f6152-aca6-4f4c-a9e3-cbc8f8de209b)
 - 칵테일 별 댓글 기능. (여러 사람의 격관적인 평가 가능)
 
-
-
-#### 재료 페이지 <a href = "#">상세보기 WIKI 이동</a>
-- 재료 정보 확인
-- 조건에 맞는 재료 검색
-
-#### 마이 페이지<a href = "#">상세보기 WIKI 이동</a> 
-- 회원정보 변경(이미지,닉네임)
-
-#### 보드 페이지 <a  href = "#">상세보기 WIKI 이동</a>
-- 나의 게시글 확인
-- 게시글 작성
-
-#### 피드 페이지 <a  href = "#">상세보기 WIKI 이동</a>
-- 팔로우 유저 피드 확인
-- 피드 작성
-
+- **2. 칵테일 조건별 검색**
+![image](https://github.com/rwd04272/firstrepo/assets/166587746/7f1751e1-37ae-4253-a2ec-5d17ffd64c5a)
+![image](https://github.com/rwd04272/firstrepo/assets/166587746/124d335f-319b-445d-a54d-ec30907a77f9)
+- 술의 종류,도수별 검색 기능.
 
 ## 😀 맴버 구성
 - 팀장 : 오준하(back end) - 텍스트 긍부정 모델 생성,재료DB 연결,재료페이지,메뉴페이지,마이페이지,게시판,피드
