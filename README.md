@@ -29,6 +29,8 @@
 #### 로그인 <a href = "#">상세보기 WIKI 이동</a>
 - DB값 검증
 - 로그인 시 세션(Session) 생성
+- ![image](https://github.com/rwd04272/firstrepo/assets/166587746/74885cc9-7efc-4b70-b734-7a77a52ef262)
+
 #### 메인 페이지 <a href = "#">상세보기 WIKI 이동</a>
 - 인기 칵테일 확인
 
