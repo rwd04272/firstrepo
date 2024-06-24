@@ -40,7 +40,7 @@
 - 술의 종류,도수별 검색 기능.
 
 #### **3. 사용자의 게시글 좋아요**
-![image](https://github.com/rwd04272/firstrepo/assets/166587746/1a3af4a6-2f0b-4b26-9d90-167a556bb2d4)
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1a3af4a6-2f0b-4b26-9d90-167a556bb2d4" width="800" height="500"/><><br>
 - 게시글 좋아요 기능(사용자의 취향에 맞는 글등록)
 - 사용자별 접근성 향상 
 
