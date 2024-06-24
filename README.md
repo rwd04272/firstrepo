@@ -20,6 +20,7 @@
 - *visual studio code*
 - **Database** : My SQL(8.0.27)
 - **ORM** : Mybatis
+- apache tomcat (9.0.89)
 
 ## 🎈서비스 주요 기능
 #### 회원가입 <a>상세보기</a>
