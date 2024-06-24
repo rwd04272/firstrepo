@@ -30,6 +30,9 @@
 
 ## 🎈주요 서비스 기능
 메인 기능
+- 1. 칵테일 정보 제공
+![image](https://github.com/rwd04272/firstrepo/assets/166587746/668f6152-aca6-4f4c-a9e3-cbc8f8de209b)
+- 칵테일 별 댓글 기능. (여러 사람의 격관적인 평가 가능)
 
 
 
