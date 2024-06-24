@@ -17,7 +17,7 @@
 ## ⚙ 개발 환경
 - `Java 8`
 - `JDK (17.0.11)
-- 'visual studio code'
+- *visual studio code*
 - **Database** : My SQL(8.0.27)
 - **ORM** : Mybatis
 
