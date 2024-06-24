@@ -24,10 +24,16 @@
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/668f6152-aca6-4f4c-a9e3-cbc8f8de209b" width="800" height="500"/><br>
 - 칵테일 별 댓글 기능. (여러 사용자의 격관적인 평가 가능)
 
-#### **2. 칵테일 조건별 검색** <br>
+#### **2. 칵테일 조건별 검색** <br> , **재료 조건별 검색**
 ![image](https://github.com/rwd04272/firstrepo/assets/166587746/7f1751e1-37ae-4253-a2ec-5d17ffd64c5a)
 ![image](https://github.com/rwd04272/firstrepo/assets/166587746/124d335f-319b-445d-a54d-ec30907a77f9)
 - 술의 종류,도수별 검색 기능.
+![image](https://github.com/rwd04272/firstrepo/assets/166587746/effb878f-9822-4ce1-adbe-5520a482eaa3)
+![image](https://github.com/rwd04272/firstrepo/assets/166587746/1fe912d1-ed2f-4696-8516-69805f7965e3)
+![image](https://github.com/rwd04272/firstrepo/assets/166587746/9e69b6b3-e5c4-47a4-b009-df1caee0bf1f)
+- 재료 또한 낮은도수,높은도수 구분 검색 가능
+
+
 
 #### **3. 칵테일 등록(좋아요)**
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1a3af4a6-2f0b-4b26-9d90-167a556bb2d4" width="800" height="500"/><><br>
@@ -41,14 +47,10 @@
 - 사용자 자신이 만든 레시피를 등록
 - 댓글을 작성해서 후기 공유 및 피드백
 
-2) 재료 확인
-- 칵테일에 들어가는 재료 조건별 검색
-  (낮은도수,높은도수,과일,음료 등) 
-
-3) 게시글 확인
+2) 게시글 확인
 - 마이페이지에서 자신이 올린 게시글을 확인
 
-4) 댓글 긍정/부정 비율
+3) 댓글 긍정/부정 비율
 - 사용자의 댓글의 긍정,부정 비율을 그래프로 확인
 - 사용자 칵테일 선호도 파악 가능
 
