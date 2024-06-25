@@ -28,7 +28,7 @@
 
 #### **2. 칵테일 조건별 검색** , **재료 조건별 검색**
 ![image](https://github.com/rwd04272/firstrepo/assets/166587746/7f1751e1-37ae-4253-a2ec-5d17ffd64c5a)
-![image](https://github.com/rwd04272/firstrepo/assets/166587746/124d335f-319b-445d-a54d-ec30907a77f9)
+![image](https://github.com/rwd04272/firstrepo/assets/166587746/124d335f-319b-445d-a54d-ec30907a77f9) <br>
 - 술의 종류,도수별 검색 기능. <br>
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/effb878f-9822-4ce1-adbe-5520a482eaa3" width="600" height="350"/><br>
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1fe912d1-ed2f-4696-8516-69805f7965e3" width="600" height="350"/><br>
