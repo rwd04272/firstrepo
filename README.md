@@ -64,8 +64,8 @@
 - `JDK (17.0.11)
 - *visual studio code*
 - **Database** : My SQL(8.0.27)
-- **ORM** : Mybatis
-  <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/f51366c7-337d-402f-9207-e25ce5fcdba1" width="600" height="35"/><br>
+- **ORM** : Mybatis <br>
+  <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/f51366c7-337d-402f-9207-e25ce5fcdba1" width="600" height="350"/><br>
 
 - apache tomcat (9.0.89)
 
