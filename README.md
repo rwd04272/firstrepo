@@ -21,22 +21,22 @@
 ## 🎈주요 서비스 기능
 ***메인 기능***
 #### **1. 칵테일 정보 제공**
-<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/668f6152-aca6-4f4c-a9e3-cbc8f8de209b" width="800" height="500"/><br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/668f6152-aca6-4f4c-a9e3-cbc8f8de209b" width="600" height="350"/><br>
 - 칵테일 별 댓글 기능. (여러 사용자의 격관적인 평가 가능)
 
 #### **2. 칵테일 조건별 검색** <br> , **재료 조건별 검색**
 ![image](https://github.com/rwd04272/firstrepo/assets/166587746/7f1751e1-37ae-4253-a2ec-5d17ffd64c5a)
 ![image](https://github.com/rwd04272/firstrepo/assets/166587746/124d335f-319b-445d-a54d-ec30907a77f9)
 - 술의 종류,도수별 검색 기능.
-<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/effb878f-9822-4ce1-adbe-5520a482eaa3" width="800" height="500"/><br>
-<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1fe912d1-ed2f-4696-8516-69805f7965e3" width="800" height="500"/><br>
-<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1fe912d1-ed2f-4696-8516-69805f7965e3" width="800" height="500"/><br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/effb878f-9822-4ce1-adbe-5520a482eaa3" width="600" height="350"/><br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1fe912d1-ed2f-4696-8516-69805f7965e3" width="600" height="350"/><br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1fe912d1-ed2f-4696-8516-69805f7965e3" width="600" height="350"/><br>
 - 재료 또한 낮은도수,높은도수 구분 검색 가능
 
 
 
 #### **3. 칵테일 등록(좋아요)**
-<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1a3af4a6-2f0b-4b26-9d90-167a556bb2d4" width="800" height="500"/><><br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1a3af4a6-2f0b-4b26-9d90-167a556bb2d4" width="600" height="350"/><><br>
 - 좋아요 누른 칵테일 리스트 확인 가능
 - 다른 사용자가 올린 칵테일도 좋아요 가능
 - 마이페이지 북마크에 등록
