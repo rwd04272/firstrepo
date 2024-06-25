@@ -65,6 +65,8 @@
 - *visual studio code*
 - **Database** : My SQL(8.0.27)
 - **ORM** : Mybatis
+  <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/f51366c7-337d-402f-9207-e25ce5fcdba1" width="600" height="35"/><br>
+
 - apache tomcat (9.0.89)
 
 ## 😀 프로젝트 맴버 역할 분담
