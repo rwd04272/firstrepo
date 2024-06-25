@@ -62,14 +62,18 @@
 * 24/06/17 ~ 24/07/01
 
 
+
 ## ⚙ 개발 환경
 - `JDK (17.0.11)
 - *visual studio code*
 - **Database** : My SQL(8.0.27)<br>
-  <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/08b7633d-51a6-4139-b778-7c001ae1a331" width="600" height="350"/><br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/08b7633d-51a6-4139-b778-7c001ae1a331" width="400" height="200"/><br>
 
 - **ORM** : Mybatis <br>
-  <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/f51366c7-337d-402f-9207-e25ce5fcdba1" width="600" height="350"/><br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/e72a3c2d-285e-452f-b705-78e42bbf6317" width="400" height = "200"/><br>
+
+- apache tomcat (9.0.89)<br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/f51366c7-337d-402f-9207-e25ce5fcdba1" width="400" height="200"/><br>
 
 - apache tomcat (9.0.89)
 
