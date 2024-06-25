@@ -64,8 +64,12 @@
 
 
 ## ⚙ 개발 환경
-- `JDK (17.0.11)
-- *visual studio code*
+- `JDK (17.0.11) <br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/182e761b-bae5-4aea-97b6-8365e3f35953" width="400" height= "200"/><br>
+
+- *visual studio code* <br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1962a5da-b3f7-4e0e-87b4-aae8db649ec8" width="400" height= "200"/><br>
+
 - **Database** : My SQL(8.0.27)<br>
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/08b7633d-51a6-4139-b778-7c001ae1a331" width="400" height="200"/><br>
 
@@ -74,8 +78,6 @@
 
 - apache tomcat (9.0.89)<br>
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/f51366c7-337d-402f-9207-e25ce5fcdba1" width="400" height="200"/><br>
-
-- apache tomcat (9.0.89)
 
 ## 😀 프로젝트 맴버 역할 분담
 
