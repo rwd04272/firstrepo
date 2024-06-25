@@ -22,6 +22,8 @@
 ***메인 기능***
 #### **1. 칵테일 정보 제공**
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/668f6152-aca6-4f4c-a9e3-cbc8f8de209b" width="600" height="350"/><br>
+![image](https://github.com/rwd04272/firstrepo/assets/166587746/163eee62-7881-4e41-80e9-997d5351a957)
+
 - 칵테일 별 댓글 기능. (여러 사용자의 격관적인 평가 가능)
 
 #### **2. 칵테일 조건별 검색** , **재료 조건별 검색**
