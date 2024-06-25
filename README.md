@@ -22,7 +22,7 @@
 ***메인 기능***
 #### **1. 칵테일 정보 제공**
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/668f6152-aca6-4f4c-a9e3-cbc8f8de209b" width="600" height="350"/><br>
-<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/eb7c6203-f783-47f3-b7c7-0e7a6801f1c3" width = "600" height = "250"/><br>
+<img src = "https://github.com/rwd04272/firstrepo/assets/166587746/eb7c6203-f783-47f3-b7c7-0e7a6801f1c3" width = "600" height = "150"/><br>
 
 - 칵테일 별 댓글 기능. (여러 사용자의 격관적인 평가 가능)
 
@@ -65,7 +65,9 @@
 ## ⚙ 개발 환경
 - `JDK (17.0.11)
 - *visual studio code*
-- **Database** : My SQL(8.0.27)
+- **Database** : My SQL(8.0.27)<br>
+  <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/08b7633d-51a6-4139-b778-7c001ae1a331" width="600" height="350"/><br>
+
 - **ORM** : Mybatis <br>
   <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/f51366c7-337d-402f-9207-e25ce5fcdba1" width="600" height="350"/><br>
 
