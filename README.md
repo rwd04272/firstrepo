@@ -24,7 +24,7 @@
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/668f6152-aca6-4f4c-a9e3-cbc8f8de209b" width="600" height="350"/><br>
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/eb7c6203-f783-47f3-b7c7-0e7a6801f1c3" width = "600" height = "200"/><br>
 
-- 칵테일 별 댓글 기능. (여러 사용자의 격관적인 평가 가능)
+- 칵테일 별 댓글 기능. (여러 사용자의 격관적인 평가 가능) <br>
 
 #### **2. 칵테일 조건별 검색** , **재료 조건별 검색**
 ![image](https://github.com/rwd04272/firstrepo/assets/166587746/7f1751e1-37ae-4253-a2ec-5d17ffd64c5a)
@@ -33,7 +33,8 @@
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/effb878f-9822-4ce1-adbe-5520a482eaa3" width="600" height="350"/><br>
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1fe912d1-ed2f-4696-8516-69805f7965e3" width="600" height="350"/><br>
 <img src = "https://github.com/rwd04272/firstrepo/assets/166587746/1fe912d1-ed2f-4696-8516-69805f7965e3" width="600" height="350"/><br>
-- 재료 또한 낮은도수,높은도수 구분 검색 가능
+
+- 재료 또한 낮은도수,높은도수 구분 검색 가능 <br>
 
 
 
